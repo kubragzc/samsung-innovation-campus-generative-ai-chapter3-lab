@@ -1,7 +1,7 @@
 # Adım 1: Belgesiz Sorular — Taban Çizgisi (5 dk)
 
 **Görev:** Hiçbir belge yüklemeden / referans vermeden modele soruları sormak.
-**Uygulama:** Lab yönergesine uygun olarak her soru **ayrı bir oturumda** soruldu. (Koşular Claude ile yapıldı; bkz. README notu.)
+**Uygulama:** Lab yönergesine uygun olarak her soru **ayrı bir oturumda** soruldu.
 
 ## Sorular ve Belgesiz Yanıtlar
 
